@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41852
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Corneliszoon_Hooft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42746#Granida
 gutenberg_issued: '2013-05-20'
 gutenberg_type: Text
 identifiers:
