@@ -1,0 +1,28 @@
+_repo: Granida_42746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooft, P. C. (Pieter Corneliszoon)
+    alias: Hooft, Pieter Corneliszoon
+    birthdate: 1581
+    deathdate: 1647
+    gutenberg_agent_id: '41852'
+    url: http://www.gutenberg.org/2009/agents/41852
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Corneliszoon_Hooft
+description: ''
+gutenberg_issued: '2013-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42746'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch drama -- Early modern, 1500-1700'
+- !lcc 'PT'
+title: Granida
+url: http://www.gutenberg.org/ebooks/42746
